@@ -110,7 +110,7 @@
 
 ### 相关工具
 
-- 优选工具：https://github.com/byJoey/yx-tools/releases
+- 优选工具：https://github.com/s1545151561/yx-tools/releases
 - 文字教程：https://joeyblog.net/yuanchuang/1146.html
 - Workers视频教程：https://www.youtube.com/watch?v=aYzTr8FafN4
 - Pages视频教程：https://www.youtube.com/watch?v=JhVxJChDL-E
@@ -171,7 +171,7 @@
 4. 访问 `/{你的UUID}` 使用图形化配置
 
 #### API使用
-1. 下载优选软件：https://github.com/byJoey/yx-tools/releases
+1. 下载优选软件：https://github.com/s1545151561/yx-tools/releases
 2. 开启API：访问 `/{UUID}` 或 `/{自定义路径}`，找到"允许API管理"，开启后保存
 3. 添加单个IP：
 ```bash
@@ -370,4 +370,4 @@ path 示例：
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=byJoey/cfnew&type=Timeline)](https://www.star-history.com/#byJoey/cfnew&Timeline&LogScale)
+[![Star History Chart](https://api.star-history.com/svg?repos=s1545151561/cfnew&type=Timeline)](https://www.star-history.com/#s1545151561/cfnew&Timeline&LogScale)
